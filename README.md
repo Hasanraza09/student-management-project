@@ -9,3 +9,7 @@ This is a command-line based Student Management System built using TypeScript, I
 3. **View Balance:** View the balance for a specific student.
 4. **Pay Tuition Fees:** Pay tuition fees and update the student's balance.
 5. **Show Status:** View detailed information about a student including their courses and balance.
+
+## Npx Command
+```bash
+   npx hraza9-student-management-system
